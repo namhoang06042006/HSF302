@@ -1,0 +1,3 @@
+[submodule "Assignment/fu-cinema-ticket-system"]
+	path = Assignment/fu-cinema-ticket-system
+	url = https://github.com/HSF302-group7/fu-cinema-ticket-system.git

@@ -40,3 +40,4 @@ StudentController → StudentService (interface) → StudentServiceImpl → Stud
 - `docs/screenshots/02-add.png`: Thêm mới sinh viên thành công.
 - `docs/screenshots/03-validation.png`: Thông báo lỗi validation.
 - `docs/screenshots/04-delete-confirm.png`: Hộp thoại xác nhận trước khi xóa.
+
